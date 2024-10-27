@@ -110,3 +110,10 @@ Output :
 
   ## BERIKUT HASIL VISUAL CODE
   ![d](https://github.com/user-attachments/assets/ea32dac8-04e5-4e64-97f0-93d8f634fd39)
+
+#Latihan 3: Buat program python
+ #KASUS 1 PEMESANAN TIKET BIOSKOP
+![WhatsApp Image 2024-10-27 at 13 09 13](https://github.com/user-attachments/assets/00e6849a-e746-4139-8f37-36e3c7a4d884)
+
+# KASUS 2 PROGRAM KALKULATOR 
+![WhatsApp Image 2024-10-27 at 13 16 47](https://github.com/user-attachments/assets/1daac884-60c4-4320-adad-cd5557067ea9)
